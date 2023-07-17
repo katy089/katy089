@@ -1,4 +1,3 @@
-# Hi there 👋
 
 <div align="center">
     <img src="./images/header.gif"/>
@@ -10,7 +9,7 @@
 I have always been passionate about the world of technology and creating new projects. My experience in direct contact with users allowed me to develop my empathy, assertive communication and active listening to find optimal solutions to their needs. My goals are to apply my knowledge and skills in web programming, to grow professionally, to learn autonomously and from others, to share my learning. 
 
 
-## Puedes contactarme por:
+# Puedes contactarme por:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/katya-anco/)
 
 - 🌱 &nbsp;I’m currently working on improving my skills in, and understanding of Boostrap, JavaScript, React, Post gresql,Python, Rails and NodeJs.
