@@ -1,5 +1,5 @@
 
-<img src="/home/katya890/codeable/cohort-11/katy089/banner_perfil.gif"/>
+<img src="banner.gif" width="1500px" height="500px" alt=">
 <div align="center">
     <img src="./images/header.gif"/>
 </div>
