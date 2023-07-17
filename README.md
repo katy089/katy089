@@ -1,6 +1,4 @@
 
-https://github.com/katy089/katy089/assets/132964539/291df2d8-cff0-471e-9d6c-511995ac109f
-
 <div align="center">
     <img src="./images/header.gif"/>
 </div>
@@ -8,7 +6,7 @@ https://github.com/katy089/katy089/assets/132964539/291df2d8-cff0-471e-9d6c-5119
 <h1 align="center">Hi <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b.png" height="40" width="40" />, I'm Katya</h1>
 <h3 align="center">A passionate full stack developer and Data Analytics from Perú . <img src="./images/Perú.gif" height="20" width="25" /></h3>
 
-I have always been passionate about the world of technology and creating new projects. My experience in direct contact with users allowed me to develop my empathy, assertive communication and active listening to find optimal solutions to their needs. My goals are to apply my knowledge and skills in web programming, to grow professionally, to learn autonomously and from others, to share my learning. 
+**I have always been passionate about the world of technology and creating new projects. My experience in direct contact with users allowed me to develop my empathy, assertive communication and active listening to find optimal solutions to their needs. My goals are to apply my knowledge and skills in web programming, to grow professionally, to learn autonomously and from others, to share my learning.** 
 
 # Puedes contactarme por:
 <h3 align="left">📲 Connect with me:</h3>
