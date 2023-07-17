@@ -1,4 +1,5 @@
 
+<img src="/home/katya890/codeable/cohort-11/katy089/banner_perfil.gif"/>
 <div align="center">
     <img src="./images/header.gif"/>
 </div>
