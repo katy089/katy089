@@ -10,9 +10,12 @@ I have always been passionate about the world of technology and creating new pro
 
 
 # Puedes contactarme por:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/katya-anco/)
+<h3 align="left">📲 Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/katy089" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="adamantine-dev" height="40" width="40" /></a>
 <a style="margin-left: 10px;" target="_blank" href="https://github.com/katy089"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" width="40" height="40"></a>
-
+</p>
+<br>
 - 🌱 &nbsp;I’m currently working on improving my skills in, and understanding of Boostrap, JavaScript, React, Post gresql,Python, Rails and NodeJs.
 - 😀 I like to  code, read, research,create content and watch videos.
 - 📫 &nbsp;How to reach me: [katya.anco@gmail.com](https://github.com/katy089) 
