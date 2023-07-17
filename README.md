@@ -17,10 +17,15 @@ I have always been passionate about the world of technology and creating new pro
 </p>
 <br>
 - 🌱 &nbsp;I’m currently working on improving my skills in, and understanding of Boostrap, JavaScript, React, Post gresql,Python, Rails and NodeJs.
+
 - 😀 I like to  code, read, research,create content and watch videos.
-- 📫 &nbsp;How to reach me: [katya.anco@gmail.com](https://github.com/katy089) 
+  
+- 📫 &nbsp;How to reach me: [katya.anco@gmail.com](https://github.com/katy089)
+  
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s, trends, and books
+  
 - 🗽💭 I continue to strengthen my **English level**.
+  
 - 🫱🏼‍🫲🏼📈 I like to work on team projects.
 
 
