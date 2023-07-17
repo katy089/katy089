@@ -13,7 +13,7 @@ I have always been passionate about the world of technology and creating new pro
 <h3 align="left">📲 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/katya-anco/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="katya-anco" height="40" width="40" /></a>
-<br>
+    
 <a style="margin-left: 10px;" target="_blank" href="https://github.com/katy089"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" width="40" height="40"></a>
 </p>
 <br>
