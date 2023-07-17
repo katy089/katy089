@@ -15,6 +15,7 @@
 <a style="margin-left: 10px;" target="_blank" href="https://github.com/katy089"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png" width="40" height="40"></a>
 </p>
 <br>
+
 - 🌱 I’m currently working on improving my skills in, and understanding of Boostrap, JavaScript, React, Post gresql,Python, Rails and NodeJs.
 
 - 😀 I like to  code, read, research,create content and watch videos.
