@@ -33,3 +33,6 @@
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgresql,python,js,nodejs,react,emotion,figma,git,github,firebase,linux,docker)](https://skillicons.dev)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katy089)](https://github.com/katy089/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katy089&show_icons=true&theme=radical)
