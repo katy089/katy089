@@ -35,4 +35,5 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katy089)](https://github.com/katy089/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katy089&layout=compact)](https://github.com/katy089/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katy089&show_icons=true&theme=radical)
