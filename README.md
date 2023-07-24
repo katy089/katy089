@@ -37,7 +37,7 @@
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s, trends, and books
   
 - 🗽💭 I continue to strengthen my **English level**.
-  
+- ⭐ Currently studying at @Codeable 
 - 🫱🏼‍🫲🏼📈 I like to work on team projects.
 
 
