@@ -36,7 +36,7 @@
   
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s, trends, and books
 
- <p> ⭐ Currently studying at <a href="https://codeable.la">@Codeable</a></p>
+<p> - ⭐ Currently studying at <a href="https://codeable.la">@Codeable</a></p>
   
 - 🗽💭 I continue to strengthen my **English level**.
   
