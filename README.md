@@ -35,9 +35,11 @@
 - 📫 &nbsp;How to reach me: [katya.anco@gmail.com](https://github.com/katy089)
   
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s, trends, and books
+
+ <p> ⭐ Currently studying at <a href="https://codeable.la">@Codeable</a></p>
   
 - 🗽💭 I continue to strengthen my **English level**.
-- ⭐ Currently studying at @Codeable 
+  
 - 🫱🏼‍🫲🏼📈 I like to work on team projects.
 
 
