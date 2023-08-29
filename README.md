@@ -47,5 +47,4 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katy089)](https://github.com/katy089/github-readme-stats)
 
